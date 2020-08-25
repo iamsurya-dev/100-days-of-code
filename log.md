@@ -15,3 +15,11 @@
 **Thoughts:** 2D Arrays have unique problems. Once you understand the concept its quite easy to solve the problem
 
 **Link to work:** [Leetcode 2D Arrays](https://leetcode.com/explore/learn/card/array-and-string/202/introduction-to-2d-array/)
+
+### Day 3: August 24 2020
+
+**Today's Progress**: Working on 2D Arrays
+
+**Thoughts:** Didn't get much done today. Worked on Sprial Matrix Problem
+
+**Link to work:** [Leetcode 2D Arrays](https://leetcode.com/explore/learn/card/array-and-string/202/introduction-to-2d-array/)
