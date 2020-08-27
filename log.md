@@ -23,3 +23,11 @@
 **Thoughts:** Didn't get much done today. Worked on Sprial Matrix Problem
 
 **Link to work:** [Leetcode 2D Arrays](https://leetcode.com/explore/learn/card/array-and-string/202/introduction-to-2d-array/)
+
+### Day 4: August 26 2020
+
+**Today's Progress**: Working on 2D Arrays and Strings
+
+**Thoughts:** Getting more comfortable with Arrays. Just started strings. 
+
+**Link to work:** [Leetcode Strings](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1160/)
