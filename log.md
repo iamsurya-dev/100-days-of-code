@@ -31,3 +31,19 @@
 **Thoughts:** Getting more comfortable with Arrays. Just started strings. 
 
 **Link to work:** [Leetcode Strings](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1160/)
+
+### Day 5: August 29 2020
+
+**Today's Progress**: Working on two-Pointers
+
+**Thoughts:** Solved some two pointers problems
+
+**Link to work:** [Leetcode 2 pointer](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1157/)
+
+### Day 6: September 1 2020
+
+**Today's Progress**: Working on two-Pointers
+
+**Thoughts:** Solved some two pointers problems
+
+**Link to work:** [Leetcode 2 pointer](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1157/)
